@@ -1,0 +1,242 @@
+ *{
+    margin: 0%;
+    padding: 0%;
+ }
+
+ .img {
+    
+    width: 240vh;
+    
+   }
+   .container{
+     
+      text-align: center;
+   }
+   
+
+ .container h1 {
+    
+    padding-left: 200px;
+    position: relative;
+    bottom: 4vh;
+    font-size: 230px;
+    color: #ffff;
+    top: -589px;
+    
+   } 
+   
+
+   .container h2 {
+      
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   padding-left: 240px;
+   color: #e20808;
+   font-size: 40px;
+   width: 20px;
+   bottom: 90vh;
+   position:relative;
+
+
+ }  
+
+ .container p {
+ position: relative;
+ width: 500px;
+ height: 400px;
+ padding-left: 225px;
+ bottom: 85vh;
+ 
+
+ }   
+ .container h3, h4{
+   
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   width: 70px;
+   height: 40px;
+   padding-left: 240px;
+   position: relative;
+   color: #000000;
+   font-size: 25px;
+   bottom: 88vh;
+
+
+ }  
+    
+.container .boton {
+
+   right: 370px;
+   width: 140px;
+   position: relative;
+   font-size: 25px;
+   color: white;
+   background-color: #be2b2b;
+   border-radius: 40px;
+   bottom: 125vh;
+
+}
+  .imagen {
+
+  width: 400px;
+  height: 500px;
+  padding-left: 720px;
+  position: relative;
+  bottom: 20vh;
+
+  }
+
+  .image {
+  position: relative;
+  width: 400px;
+  height: 500px;
+  padding-left: 200px;
+  bottom: 85vh;
+  
+       
+  }
+
+
+  .parrafo {
+
+   width: 500px;
+   height: 300px;
+   padding-left: 850px;
+   position: relative;
+   bottom: 152vh;
+   
+   
+
+    }
+
+
+    .parrafo .botn {
+
+      left: 20px;
+      width: 140px;
+      position: relative;
+      bottom: 48vh;
+      font-size: 25px;
+      color: white;
+      background-color: #be2b2b;
+      border-radius: 40px;
+   
+   }
+  .parrafo p {
+
+   width: 500px;
+   height: 400px;
+   left: 17px;
+   position: relative;
+   bottom: 9vh;
+ 
+   
+   }
+
+
+   .parrafo h2 {
+      
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      width: 100px;
+      height: 100px;
+      left: 20px;
+      position: relative;
+      bottom: 4vh;
+      color: #e20808;
+      font-size: 40px;
+    }  
+
+
+    .parrafo h3,h5{
+      
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      left: 20px;
+      position: relative;
+      color: #000000;
+      bottom: 10vh;
+      font-size: 25px;
+      width: 700px;
+      height: 40px;
+
+    }  
+
+  .ima {
+
+   width: 240vh;
+   height: 600px;
+   bottom: 120vh;
+   position: relative;
+
+  }
+
+  .parrafoultimo {
+   position: relative;
+   padding-left: 300px;
+   bottom: 120vh;
+   font-size: 200px;
+   color: #ffff;
+     
+   }  
+
+   .parrafoultimo h3 {
+
+      font-weight: 100;
+      padding-left: 250px;
+      position: relative;
+      bottom: 85vh;
+      font-size: 85px;
+      color: #ffff;
+
+   }
+
+
+   .parrafoultimo p {
+      padding-left: 250px;
+      bottom: 80vh;
+      position: relative;
+      font-size: 20px;
+      color: #ffff;
+
+   }
+
+   .parrafoultimo .btn {
+      left: 250px;
+      width: 150px;
+      bottom: 100vh;
+      position: relative;
+      font-size: 20px;
+      color: #ffffff;
+      border-radius: 20px;
+      background-color: #be2b2b;
+
+   }
+
+
+.tabla {
+
+   padding-left: 30%;
+   width: 180vh;
+   height: 100vh;
+   background-color: #ce4545;
+   bottom: 200vh;
+   position: relative;
+
+}
+tr{
+   display: flex;
+   width: 300px;
+   height: 40vh;
+   margin-top: 100px ;
+   flex-wrap: wrap;
+   flex-direction: column;
+   font-size: 30px;
+
+}
+td{
+   margin: 20px;
+}
+
+
+
+
+
+
+
